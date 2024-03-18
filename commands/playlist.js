@@ -258,7 +258,7 @@ await interaction.editReply({
           url: 'https://discord.gg/FUEHs7RCqz'
         })
         .setDescription(`Hey <@${interaction.member.id}>, your song has been Added successfully! ✨`)
-        .setFooter({ text: 'YouTube - RTX GAMING' })
+        .setFooter({ text: 'Kaizaki © 2024' })
         await interaction.reply({
   content: '',
   embeds: [ loadingembed ] 
